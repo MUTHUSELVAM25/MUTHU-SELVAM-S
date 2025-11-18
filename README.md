@@ -52,14 +52,6 @@ Crafting insights from raw data and deploying full-stack analytics applications.
 
 ---
 
-## 📈 Showcase Projects
-
-<!-- Replace below with your actual top repositories -->
-[![Sentiment Analysis Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=MUTHUSELVAM25&repo=sentiment-analysis-dashboard&theme=highcontrast)](https://github.com/MUTHUSELVAM25/sentiment-analysis-dashboard)
-[![ETL Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=MUTHUSELVAM25&repo=etl-pipeline&theme=highcontrast)](https://github.com/MUTHUSELVAM25/etl-pipeline)
-[![ML Model Deployment](https://github-readme-stats.vercel.app/api/pin/?username=MUTHUSELVAM25&repo=ml-model-deployment&theme=highcontrast)](https://github.com/MUTHUSELVAM25/ml-model-deployment)
-
----
 
 ## 📬 Connect & Collaborate
 
@@ -68,13 +60,6 @@ Crafting insights from raw data and deploying full-stack analytics applications.
 - ✉️ [Email me](mailto:muthuselvam25042003@gmail.com)
 
 ---
-
-## 💎 Why Recruit Me?
-
-- End-to-end project development, from raw data to production dashboards
-- Hands-on with real-world APIs & advanced ML pipelines
-- Excellent communicator & collaborator for cross-functional teams
-- Passionate about continuous learning, automation, and impact-driven solutions
 
 ---
 
