@@ -61,8 +61,6 @@ Crafting insights from raw data and deploying full-stack analytics applications.
 
 ---
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MUTHUSELVAM25&label=Profile%20views&color=blue&style=plastic" alt="Profile Views"/>
 </p>
